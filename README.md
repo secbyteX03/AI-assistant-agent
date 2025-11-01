@@ -1,5 +1,6 @@
 # 🤖 AI Assistant Agent
 
+<img width="1244" height="691" alt="image" src="https://github.com/user-attachments/assets/717ad0da-749a-4c77-8dbb-8cedf60577a7" />
 
 ## 🚀 Project Overview
 
